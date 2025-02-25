@@ -1,8 +1,21 @@
-# Welcome to your Expo app 👋
+# Flappy Bird React Native
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A Flappy Bird clone built with React Native and Expo.
 
-## Get started
+## Screenshots
+
+Here are some screenshots of the game in action:
+
+### Start Screen
+![Start Screen](./screenshots/start_screen.png)
+
+### Gameplay
+![Gameplay](./screenshots/gameplay.png)
+
+### Game Over Screen
+![Game Over](./screenshots/game_over.png)
+
+## Getting Started
 
 1. Install dependencies
 
@@ -13,17 +26,34 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 2. Start the app
 
    ```bash
-    npx expo start
+   npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+In the output, you'll find options to open the app in a:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Expo Go](https://expo.dev/go)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## How to Play
+
+- Tap the screen to make the bird flap its wings and fly upward
+- Navigate through the pipes without hitting them
+- Try to achieve the highest score possible!
+
+## Technologies Used
+
+- React Native
+- Expo
+- React Native Game Engine
+
+## Learn More
+
+To learn more about developing with Expo, check out the following resources:
+
+- [Expo documentation](https://docs.expo.dev/)
+- [React Native documentation](https://reactnative.dev/docs/getting-started)
 
 ## Get a fresh project
 
@@ -34,13 +64,6 @@ npm run reset-project
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
 ## Join the community
 
