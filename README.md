@@ -7,13 +7,13 @@ A Flappy Bird clone built with React Native and Expo.
 Here are some screenshots of the game in action:
 
 ### Start Screen
-![Start Screen](./screenshots/start_screen.png)
+![Start Screen](https://github.com/tenzinngodup/flappybirdreactnative/raw/master/screenshots/start_screen.png)
 
 ### Gameplay
-![Gameplay](./screenshots/gameplay.png)
+![Gameplay](https://github.com/tenzinngodup/flappybirdreactnative/raw/master/screenshots/gameplay.png)
 
 ### Game Over Screen
-![Game Over](./screenshots/game_over.png)
+![Game Over](https://github.com/tenzinngodup/flappybirdreactnative/raw/master/screenshots/game_over.png)
 
 ## Getting Started
 
